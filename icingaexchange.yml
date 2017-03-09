@@ -8,11 +8,11 @@ type: Plugin
 license: gplv3
 releases: 
   - 
-    name: 1.0
-    description: "1.0 Release"
+    name: 1.1
+    description: "1.1 Release"
     files: 
       - 
         name: check_needsrestarting.sh
         url: "file:///check_needsrestarting.sh"
-        description: "initial release"
-        checksum: cae34802bfe9c9927ef4be11bfcbff94
+        description: "added better output and perfdata "
+        checksum: 42956ae2605dd19841385cb155d5da2d
